@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# Real-Time Code Editor
+
+Welcome to the Real-Time Code Editor project! This web application allows users to collaborate in real-time on coding projects. Users can join existing rooms or create new ones, enabling seamless collaboration on code editing.
+
+## Features
+
+- **Home Page:**
+  - Users can join a room by entering their name and the room ID.
+  - Option to create a new room with a generated room ID.
+
+- **Editor Page:**
+  - Collaborative code editing in real-time.
+  - Changes made by one user are reflected instantaneously for all participants.
+  - Intuitive and user-friendly interface for a smooth coding experience.
+
+## Getting Started
+
+Follow these steps to run the project locally:
+
+ Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/real-time-code-editor.git
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
